@@ -1,7 +1,7 @@
 # 앱 공개 페이지 (GitHub Pages)
 
 앱스토어에 낸 앱들의 **개인정보 처리방침·지원 페이지**를 올리는 공개 저장소다.
-주소: https://a47469532-sketch.github.io/apps/
+주소: https://a47469532-sketch.github.io/
 
 - **공개 저장소다.** 처리방침·지원 안내 글만 둔다. 코드·개인 자료·회사 자료를 넣지 않는다
 - 앱마다 폴더 하나: `tongyeok/privacy.html` …
